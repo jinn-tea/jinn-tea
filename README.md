@@ -6,9 +6,9 @@ I’m **Abdullah Hamayun**
 
 I build **cross-platform mobile apps using Flutter**, integrating Firebase, and focusing on clean architecture and production-ready features. I’m currently working on a **full-scale, production-ready e-commerce app** at my internship, implementing features like authentication, product catalog, shopping cart, payment gateways, and order tracking. I also enjoy adding a subtle retro / aesthetic vibe to my apps 🎞️✨.  
 
-* 🌍 I'm based in Lahore, Pakistan  
-* ✉️ Contact me at [abdullahmughal1976@gmail.com](mailto:abdullahmughal1976@gmail.com)  
-* 🚀 Currently working on: **Production-ready Flutter e-commerce app**  
+* 🌍 I'm based in Lahore, Pakistan
+* ✉️ Contact me at [abdullahmughal1976@gmail.com](mailto:abdullahmughal1976@gmail.com)
+* 🚀 Currently working on: **[Kaprayy – Production-ready Flutter e-commerce app](https://www.kaprayy.com)**  
 * 🧠 Learning: Advanced Flutter (GoRouter, Cubit/BLoC), Firebase integrations, backend concepts  
 * 🤝 Open to collaborating on Flutter apps, MVPs, and learning-driven projects  
 

@@ -8,7 +8,7 @@ I build **cross-platform mobile apps using Flutter**, integrating Firebase, and 
 
 * 🌍 I'm based in Lahore, Pakistan
 * ✉️ Contact me at [abdullahmughal1976@gmail.com](mailto:abdullahmughal1976@gmail.com)
-* 🚀 Currently working on: **[Kaprayy – Production-ready Flutter e-commerce app](https://www.kaprayy.com)**  
+* 🚀 Currently working on: **[Kaprayy](https://www.kaprayy.com)**  
 * 🧠 Learning: Advanced Flutter (GoRouter, Cubit/BLoC), Firebase integrations, backend concepts  
 * 🤝 Open to collaborating on Flutter apps, MVPs, and learning-driven projects  
 

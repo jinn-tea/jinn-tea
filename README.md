@@ -1,16 +1,19 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  
 I’m **Abdullah Hamayun**  
 
-**Flutter Mobile Application Developer**  
+**Full-Stack Flutter Developer**  
 ----------------------------
 
-I build **cross-platform mobile apps using Flutter**, integrating Firebase, and focusing on clean architecture and production-ready features. I’m currently working on a **full-scale, production-ready e-commerce app** at my internship, implementing features like authentication, product catalog, shopping cart, payment gateways, and order tracking. I also enjoy adding a subtle retro / aesthetic vibe to my apps 🎞️✨.  
+I build **cross-platform mobile apps with Flutter**, and the backends behind them with **Node.js (Express / NestJS)** on **MongoDB or PostgreSQL**. I've built 22 apps solo, from start to finish: multi-role apps, marketplaces and bookings, real-time chat, offline-first apps, and AI features. I care about clean architecture (Cubit/BLoC, GoRouter) and shipping things that actually reach the store. I also enjoy adding a subtle retro / aesthetic vibe to my apps 🎞️✨.  
 
-* 🌍 I'm based in Lahore, Pakistan
+* 🌍 Based in Lahore, Pakistan
+* 🌐 Website: **[jinntea.com](https://jinntea.com)**
+* 💼 Flutter Developer at **Codeable**
+* 📱 Live apps: **[KiBU](https://play.google.com/store/apps/details?id=com.getkibu.app)** (gamified chores & habits) and **CodeableHR** ([iOS](https://apps.apple.com/pk/app/codeablehr/id6761411778) · [Android](https://play.google.com/store/apps/details?id=com.codeablehr.app))
+* 🛠️ Built **jinn-web**, a Next.js scaffolding CLI on npm
+* 🧠 Learning: AI features in apps, LLM integrations, scaling backends
+* 🤝 Open to freelance Flutter apps, MVPs and full-stack builds
 * ✉️ Contact me at [abdullahmughal1976@gmail.com](mailto:abdullahmughal1976@gmail.com)
-* 🚀 Currently working on: **[Kaprayy](https://www.kaprayy.com)**  
-* 🧠 Learning: Advanced Flutter (GoRouter, Cubit/BLoC), Firebase integrations, backend concepts  
-* 🤝 Open to collaborating on Flutter apps, MVPs, and learning-driven projects  
 
 ---
 
@@ -21,6 +24,17 @@ I build **cross-platform mobile apps using Flutter**, integrating Firebase, and 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
 ![BLoC](https://img.shields.io/badge/BLoC-5A4FCF?style=for-the-badge)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+### 🧩 Backend & Data
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ### 🧰 Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -47,6 +61,8 @@ I build **cross-platform mobile apps using Flutter**, integrating Firebase, and 
 ## 🌐 Socials
 
 <p align="left">
+<a href="https://jinntea.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Website-0891b2?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.upwork.com/freelancers/~0151cf5af959bbfa98" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" /></a>
 <a href="https://www.github.com/jinn-tea" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/abdullah-hamayun-8730a5262/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:abdullahmughal1976@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
